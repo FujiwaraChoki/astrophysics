@@ -39,3 +39,7 @@ something even funnier happens when you put the biggest known star (Stephenson 2
 A supernova explosion occurs!
 
 now honestly, I have no idea why that happened, but that means that the star was out of fuel, and wasn't able to fuse lighter nuclei like hydrogen nuclei into helium nuclei, since the hydrogen at its outer shell was all used up. and when it's out of that fuel, it explodes.
+
+look at this beautiful image, with the effects of gravitational lensing become ever clearer
+
+![1715030154148](image/README/1715030154148.png)
