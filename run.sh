@@ -1,3 +1,5 @@
+args=$@
+
 gcc main.c -o app
 
-./app
+./app $args
