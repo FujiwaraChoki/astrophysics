@@ -18,7 +18,7 @@ first, create a new sim, then load rigel into it:
 
 ![1715028843390](image/README/1715028843390.png)
 
-next, run `run.sh`, and you'll soon see that the result for rigel is around the $\approx 53'000$ mark, so decrease it's radius to that.
+next, run `./run.sh rigel`, and you'll soon see that the result for rigel is around the $\approx 53'000$ mark, so decrease it's radius to that.
 
 wait.. where did it go?
 
