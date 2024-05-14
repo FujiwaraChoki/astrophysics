@@ -18,7 +18,7 @@ void r_s(float m)
     }
     else
     {
-        printf("Wait.. what?");
+        printf("Error: Invalid mass\n");
     }
 }
 
